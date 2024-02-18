@@ -18,6 +18,6 @@ Perform Clustering and Evaluation: For each combination of preprocessing and clu
 ## Save Results to CSV File
 
 ## Details
-Name - Rupinder Singh Rana
-Roll Number - 102117128
+Name - Rupinder Singh Rana 
+Roll Number - 102117128 
 Subgroup - 3CS5  
